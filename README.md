@@ -215,10 +215,10 @@ private  static  void  switchSemana() {
     }
 }
            //Resultado - primeira parte
-           Setembro
-           Setembro
-           Ferias
-           Funcionario nao deve receber auxilio
-           3
-           Errado
-           Ferias
+Setembro
+Setembro
+Ferias
+Funcionario nao deve receber auxilio
+3
+Errado
+Ferias
